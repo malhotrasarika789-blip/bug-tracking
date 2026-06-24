@@ -1,16 +1,56 @@
-# React + Vite
+## 🐞 Bug Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Bug Tracker application built with React that helps developers track, manage, and organize bugs efficiently.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://bug-tracker-pi-nine.vercel.app
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Add new bugs
+Update bug status
+Delete bugs
+Search bugs instantly
+Filter bugs by status
+Local Storage persistence
+Responsive design
+Modern glow-themed UI
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React
+JavaScript (ES6+)
+Vite
+CSS3
+Local Storage API
+
+## 📚 What I Learned
+
+React Hooks (useState, useEffect)
+State Management
+CRUD Operations
+Search & Filtering Logic
+Local Storage Integration
+Responsive UI Design
+
+## 🎯 Future Improvements
+
+Edit existing bugs
+Dark/Light mode toggle
+Backend integration
+User authentication
+Bug priority levels
+Due dates and reminders
+
+## 🏃‍♀️ Run Locally
+git clone https://github.com/your-username/bug-tracker.git
+cd bug-tracker
+npm install
+npm run dev
+
+## Author
+Sarika Malhotra
+Every bug fixed is a step toward becoming a better developer. 🚀
+
+⭐ Don't forget to star the repository if you found it useful!
